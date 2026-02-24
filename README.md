@@ -6,5 +6,3 @@ for the NUCS Diary Channel.
 ## Folder Structure
 - Photos/
 - Videos/
-
-Each member should upload files inside their own folder.
